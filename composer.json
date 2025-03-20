@@ -1,0 +1,12 @@
+{
+    "name": "geneosoftware/cakephp-upload",
+    "description": "CakePHP plugin to handle file uploading sans ridiculous automagic",
+    "type": "cakephp-plugin",
+    "license": "MIT",
+    "require": {
+      "composer/installers": "*"
+    },
+    "extra": {
+      "installer-name": "Upload"
+    }
+  }
